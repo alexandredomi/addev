@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Formatar links do WhatsApp (substituir SEUNUMERO)
     function formatWhatsAppLinks() {
         // Substitua SEUNUMERO pelo seu número real
-        const whatsappNumber = '5551999999999'; // EXEMPLO - altere para seu número
+        const whatsappNumber = '5553991656605'; // EXEMPLO - altere para seu número
         
         document.querySelectorAll('a[href*="SEUNUMERO"]').forEach(link => {
             link.href = link.href.replace('SEUNUMERO', whatsappNumber);
