@@ -1,4 +1,21 @@
 /* Reset e configurações básicas */
+
+/*
+Theme Name: addev
+Theme URI: http://localhost
+Author: alexandre Domingues
+Author URI: http://localhost
+Description: Tema de teste no XAMPP
+Version: 1.0
+Requires at least: 6.0
+Tested up to: 6.4
+Requires PHP: 7.4
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: meu-tema
+*/
+
+
 * {
     margin: 0;
     padding: 0;
